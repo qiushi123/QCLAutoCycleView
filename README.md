@@ -1,10 +1,10 @@
 # QCLAutoCycleView
 一行代码快速实现今日头条 网易新闻焦点图自动循环轮播效果
 
-##实现功能
-*1.自动循环轮播，可以设置时间
-*2.可以手动实现循环滑动
-*3.可以自定义轮播时圆点大小和颜色
+#实现功能
+* 1，自动循环轮播，可以设置时间
+* 2，可以手动实现循环滑动
+* 3，可以自定义轮播时圆点大小和颜色
 
 ##老规矩先看效果图
 ![image](https://github.com/qiushi123/QCLAutoCycleView/blob/master/images/GIF.gif?raw=true)
